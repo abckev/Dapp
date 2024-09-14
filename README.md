@@ -1,4 +1,4 @@
-Specifica del progetto
+*Specifica del progetto*
 
 Si vuole creare un’applicazione distribuita (DApp), basata su un sistema Blockchain per gestire una catena di prodotti, consentendo il monitoraggio delle transazioni e la tracciabilità dei prodotti attraverso una serie di stati. In questo modo le transazioni risulteranno sicure e tracciabili, così da non affidarsi a terze parti per la fruizione del servizio.
 
